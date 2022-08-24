@@ -9,4 +9,4 @@ a CSV file containing subjectID, activity, and the mean of 66 measurements (see 
 1. Download https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 2. Unzip this file into a a folder named "UCI HAR Dataset"
 3. run run_analysis.R
-4. This run_analysis.R script will produce tidy_mean.csv 
+4. This run_analysis.R script will produce tidy_means.csv 
